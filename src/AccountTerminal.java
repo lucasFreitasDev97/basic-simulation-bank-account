@@ -20,8 +20,6 @@ public class AccountTerminal{
         System.out.println("Insert balance: ");
         double balance = scanner.nextDouble();
 
-        // "Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
-
         System.out.println("===================");
         System.out.println("   ACCOUNT STATUS   ");
         System.out.println("===================");
